@@ -1,0 +1,50 @@
+# Visual Studio IDE
+.vs
+.vsconfig
+
+# Unity specific
+Library/
+Logs/
+Build/
+Bundles/
+yoo/
+HybridCLRData/
+Captures/
+UserSettings/
+
+# Object files
+obj/
+*.o
+*.lo
+*.la
+*.al
+
+# Libraries
+.libs/
+*.so
+*.so.[0-9]*
+*.a
+
+# Python
+*.pyc
+*.pyo
+__pycache__
+
+# Patch files
+*.rej
+
+# Backup files
+*~
+#*#
+.#*
+.*.swp
+*.bak
+*.bak.meta
+
+# OS generated files
+.DS_Store
+[Tt]humbs.db
+
+# Visual Studio solution files
+*.sln
+*.csproj

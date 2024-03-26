@@ -1,0 +1,20 @@
+{
+    "name": "HotUpdate",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "YooAsset",
+        "LeanPool",
+        "RQTool",
+        "GameManager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
